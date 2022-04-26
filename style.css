@@ -21,8 +21,8 @@ body {
 }
  
 .imageContainer {
-  float: left;
-  width: 620px;
+  float: center;
+  width: 200px;
 }
  
 .textContainer {
