@@ -21,12 +21,14 @@ body {
 }
  
 .imageContainer {
+  text-align: center;
   float: center;
   width: 300px;
   height: 300px;	
 }
  
 .textContainer {
+  text-align: center;
   float: center;
   width: 300px;
   margin-left: 20px;
