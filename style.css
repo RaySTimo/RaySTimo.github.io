@@ -22,14 +22,14 @@ body {
  
 .imageContainer {
   text-align: center;
-  float: center;
-  width: 300px;
-  height: 300px;	
+
+  width: 500px;
+  height: 500px;	
 }
  
 .textContainer {
   text-align: center;
-  float: center;
+ 
   width: 300px;
   margin-left: 20px;
   margin-top: 20px;
