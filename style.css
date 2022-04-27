@@ -31,9 +31,7 @@ body {
 }
  
 .textContainer {
-width: 440px;
-  margin: 20px auto 0 auto;
-  padding: 20px;
+
   background-color: #Fff884d	
 }
 
@@ -41,7 +39,10 @@ width: 440px;
 	 text-align: center;
 }
 
-
+.wrapper {
+  width: 300px;
+  margin: auto;
+}
  
 h1,h2, h3, h4 {
   font-family: sans-serif, cursive;
