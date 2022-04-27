@@ -22,11 +22,12 @@ body {
 }
  
 .img {
-  text-align: center;
+  text-align:center;
 
   width: 400px;
   height: auto;
-  border: 2px solid #ff884d;	  
+  border: 10px solid #ff884d;
+  padding: 0px;
 }
  
 .textContainer {
