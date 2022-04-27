@@ -32,13 +32,14 @@ body {
  
 .textContainer {
   text-align: center;
- 
+  height: 300px;
   width: 300px;
-  border: 20px solid #Fff884d;
-	
+  background-color: #Fff884d	
 }
 
- 
+ .centertext {
+	 text-align: center;
+}
 
 
  
