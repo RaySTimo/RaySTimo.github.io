@@ -24,8 +24,8 @@ body {
 .img {
   text-align:center;
 
-  width: 400px;
-  height: auto;
+  width: 300px;
+  height: 300px;
   border: 10px solid #ff884d;
   padding: 0px;
 }
