@@ -34,7 +34,7 @@ img {
  background-color: #Fff884d;	
 }
 
-div {  display: flex; justify-content: center;
+.div {  display: flex; justify-content: center;
 }
 .wrapper {
   width: 300px;
