@@ -41,7 +41,7 @@ img {
   margin: auto;
 }
  
-h1,h2, h3, h4, p {
+h1,h2, h3, h4 {
   font-family: sans-serif, cursive;
 
   color: #333300;
@@ -63,11 +63,16 @@ h3{
 h4 {    margin-top:15px;
 	font-size: 15px;
 }
-p {margin-left: 50px;
-	margin-right:50px;
-	margin-top:15px;
-	font-size: 15px;
+p { font-family: sans-serif, cursive;
+
+color: #333300;
+text-align: center;
+margin-left: 50px;
+margin-right:50px;
+margin-top:15px;
+font-size: 15px;
 }
+
 ul li{ 
 
 	font-family: sans-serif, cursive;
