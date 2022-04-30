@@ -63,7 +63,12 @@ h3{
 h4 {    margin-top:15px;
 	font-size: 15px;
 }
-
+p {font-family: sans-serif, cursive;
+  color: #333300;
+  margin-top:15px;
+	font-size: 15px;
+}
+	
 ul li{ 
 
 	font-family: sans-serif, cursive;
