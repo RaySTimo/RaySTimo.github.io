@@ -64,7 +64,8 @@ h4 {    margin-top:15px;
 	font-size: 15px;
 }
 
-ul li{ 
+ul li{ display: flex; justify-content: center;
+
 	font-family: sans-serif, cursive;
        color: #333300;
       list-style-position: inside;
