@@ -20,6 +20,11 @@ body {
   padding: 20px;
   
 }
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
  
 img {
   text-align:center;
